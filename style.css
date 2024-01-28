@@ -1,0 +1,19 @@
+body{
+    background-color: D4E7C5;
+
+}
+.top-container{
+    background-color: D4E7C5;
+}
+.middle-container{
+    background-color: BFD8AF;
+}
+.bottom-container{
+    background-color: 99BC85;
+}
+h1{
+    color: #4F6F52;
+    font-family: sans-serif;
+    position: absolute;
+    left: 400px;
+}
